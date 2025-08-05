@@ -4,7 +4,7 @@ import { Toaster } from 'react-hot-toast';
 
 import Home from './pages/Home';
 import Chat from './pages/Chat';
-import './app.css';
+import './App.css';
 function App() {
   return (
     <>
